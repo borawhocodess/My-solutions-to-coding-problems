@@ -9,6 +9,7 @@ HackerRank:
  * Compare the Triplets
  * Diagonal Difference
  * Plus Minus
+ * Staircase - https://www.hackerrank.com/challenges/staircase/problem
 
 
 Leetcode:
