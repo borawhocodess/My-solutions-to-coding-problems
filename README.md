@@ -10,7 +10,7 @@ HackerRank:
  * Diagonal Difference
  * Plus Minus
  * Staircase - https://www.hackerrank.com/challenges/staircase/problem
-
+ * Mini-Max Sum - https://www.hackerrank.com/challenges/mini-max-sum/problem
 
 Leetcode:
  * Binary Search - https://leetcode.com/problems/binary-search/
