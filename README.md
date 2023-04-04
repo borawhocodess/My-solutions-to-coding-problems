@@ -1,4 +1,4 @@
-,# HackerRank-Solutions
+# HackerRank-Solutions
 
 Minimum 1 problem for everyday in 2022
 
